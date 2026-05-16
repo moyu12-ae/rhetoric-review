@@ -1,4 +1,4 @@
-# Rhetoric Review · 修辞学大师#修辞学大师 
+# Rhetoric Review · 修辞学大师
 
 基于陈望道《修辞学发凡》完备体系的 Claude Code Skill，专为当代中文小说文本的修辞分析而生。
 
